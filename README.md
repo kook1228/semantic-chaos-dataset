@@ -41,7 +41,7 @@
 
 - [WFGY 問題地圖](https://github.com/onestardao/WFGY)：語義推理錯誤類型定義（我們對照其中幾項）
 - [Tension Generator 設計草案](./specs/TensionGenerator.md)：語義張力樣本生成架構規劃
-- [第一批語料 Issue 對話整理](./issues/1)：社群討論與樣本發想紀錄
+- [ 第一批語料對話整理] 上傳首批語義污染樣本（[samples/](./samples/)）：社群討論與樣本發想紀錄
 
 ---
 
