@@ -56,7 +56,7 @@
 📌 參考標準與對應錯誤分類來自：  
 [🔗 WFGY ProblemMap 錯誤分類總覽](https://github.com/onestardao/WFGY/tree/main/ProblemMap/README.md)
 
-📎 語義張力模組設計提案：[`TensionGenerator.md`](./TensionGenerator.md)  
+📎 語義張力模組設計提案：[`TensionGenerator.md`](./specs/TensionGenerator.md)  
 📎 語義污染樣本倉庫：[`samples/`](./samples)
 
 ---
